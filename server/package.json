@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@nestjs/common": "^5.4.0",
-    "@nestjs/core": "^5.4.0",
+    "@nestjs/core": "^9.2.1",
     "@nestjs/jwt": "^0.2.0",
     "@nestjs/typeorm": "^5.2.2",
     "@pusher/chatkit-server": "^1.0.4",
